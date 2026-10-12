@@ -2,6 +2,10 @@
 
 A machine learning web app that predicts whether an employee is likely to leave a company, built with **Streamlit**, **XGBoost** and **Random Forest**.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://employee-attrition-classifier.streamlit.app)
+
+**Live demo:** https://employee-attrition-classifier.streamlit.app
+
 ## How we built it
 
 1. **Dataset:** We used the IBM HR Analytics Employee Attrition dataset: 1,470 employees with 35 attributes such as age, income, overtime, job satisfaction, work-life balance and years at the company. Only about 16% of employees in it left, so the data is heavily imbalanced.
